@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
-import dummyText from "./DummyText";
 class App extends Component {
 
   render() {
@@ -11,31 +10,29 @@ class App extends Component {
         <Navbar />
         <Section
           title="About Us"
-          subtitle={dummyText}
+          subtitle={aboutUsText}
           dark={false}
           id="section1"
         />
-        <Section
-          title="Events"
-          subtitle={dummyText}
+        <Calendar
+          title="Calendar"
           dark={false}
           id="section2"
         />
         <Section
           title="A Message from Gaia"
-          subtitle={dummyText}
+          subtitle={message}
           dark={false}
           id="section3"
         />
         <Section
           title="Gallery"
-          subtitle={dummyText}
           dark={false}
           id="section4"
         />
         <Section
           title="Join Us"
-          subtitle={dummyText}
+          subtitle={joinUs}
           dark={false}
           id="section5"
         />
