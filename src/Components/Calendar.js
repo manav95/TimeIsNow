@@ -1,9 +1,11 @@
 import React from "react";
 
-export default function Calendar({ dark }) {
+export default function Calendar({ dark, id }) {
   return (
     <div className={"section" + (dark ? " section-dark" : "")}>
-      <div data-tockify-calendar="spirited" data-tockify-component="calendar"></div>
+        <div className="section-content" id={id}>
+        <div data-tockify-calendar="spirited" data-tockify-component="calendar"></div>
+    </div>
     </div>
   );
 }

@@ -2,6 +2,12 @@ import React, { Component } from "react";
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
+import ContactForm from "./Components/ContactForm";
+import Calendar from "./Components/Calendar";
+import Gallery from "./Components/Gallery"
+import aboutUsText from './aboutUsText';
+import message from './message';
+
 class App extends Component {
 
   render() {
@@ -25,14 +31,13 @@ class App extends Component {
           dark={false}
           id="section3"
         />
-        <Section
+        <Gallery
           title="Gallery"
           dark={false}
           id="section4"
         />
-        <Section
+        <ContactForm
           title="Join Us"
-          subtitle={joinUs}
           dark={false}
           id="section5"
         />
