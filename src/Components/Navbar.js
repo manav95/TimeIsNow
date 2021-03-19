@@ -78,18 +78,6 @@ export default class Navbar extends Component {
                 Join Us
               </Link>
             </li>
-            <li className="nav-item">
-              <Link
-                activeClass="active"
-                to="section6"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-              >
-                Calendar
-              </Link>
-            </li>
           </ul>
         </div>
       </nav>
