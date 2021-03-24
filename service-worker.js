@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TimeIsNow/precache-manifest.7d72328c2769828a294027f2569b5b1d.js"
+  "/TimeIsNow/precache-manifest.9aa0613b63e7dcc8a9c689561b9686d0.js"
 );
 
 workbox.clientsClaim();
