@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6889de2d916c5d48f40c",
-    "url": "/TimeIsNow/static/css/main.009674d9.chunk.css"
+    "revision": "cf08cd1f2e78e77de8e2",
+    "url": "/TimeIsNow/static/css/main.ae534da8.chunk.css"
   },
   {
-    "revision": "6889de2d916c5d48f40c",
-    "url": "/TimeIsNow/static/js/main.6889de2d.chunk.js"
+    "revision": "cf08cd1f2e78e77de8e2",
+    "url": "/TimeIsNow/static/js/main.cf08cd1f.chunk.js"
   },
   {
     "revision": "9496a9e38e5e34ec72b0",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/TimeIsNow/static/media/galaxy.30cdb5be.jpg"
   },
   {
-    "revision": "51e739bbb7eb57d5eba3deae98a96f0d",
+    "revision": "f2b6d05b5fabae4b22558b1aa3a5d265",
     "url": "/TimeIsNow/index.html"
   }
 ];

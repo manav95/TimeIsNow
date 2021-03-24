@@ -1,15 +1,15 @@
 {
-  "main.css": "/TimeIsNow/static/css/main.009674d9.chunk.css",
-  "main.js": "/TimeIsNow/static/js/main.6889de2d.chunk.js",
-  "main.js.map": "/TimeIsNow/static/js/main.6889de2d.chunk.js.map",
+  "main.css": "/TimeIsNow/static/css/main.ae534da8.chunk.css",
+  "main.js": "/TimeIsNow/static/js/main.cf08cd1f.chunk.js",
+  "main.js.map": "/TimeIsNow/static/js/main.cf08cd1f.chunk.js.map",
   "static/js/1.9496a9e3.chunk.js": "/TimeIsNow/static/js/1.9496a9e3.chunk.js",
   "static/js/1.9496a9e3.chunk.js.map": "/TimeIsNow/static/js/1.9496a9e3.chunk.js.map",
   "runtime~main.js": "/TimeIsNow/static/js/runtime~main.376b6ebc.js",
   "runtime~main.js.map": "/TimeIsNow/static/js/runtime~main.376b6ebc.js.map",
   "static/media/logo.png": "/TimeIsNow/static/media/logo.14ba20b2.png",
   "static/media/App.css": "/TimeIsNow/static/media/galaxy.30cdb5be.jpg",
-  "static/css/main.009674d9.chunk.css.map": "/TimeIsNow/static/css/main.009674d9.chunk.css.map",
+  "static/css/main.ae534da8.chunk.css.map": "/TimeIsNow/static/css/main.ae534da8.chunk.css.map",
   "index.html": "/TimeIsNow/index.html",
-  "precache-manifest.15da37b7358a8f041f11f42a198160cc.js": "/TimeIsNow/precache-manifest.15da37b7358a8f041f11f42a198160cc.js",
+  "precache-manifest.8f34cb76e76889f1e54a38e3e34ce6d1.js": "/TimeIsNow/precache-manifest.8f34cb76e76889f1e54a38e3e34ce6d1.js",
   "service-worker.js": "/TimeIsNow/service-worker.js"
 }
