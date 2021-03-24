@@ -9,12 +9,11 @@ import aboutUsText from './aboutUsText';
 import message from './message';
 
 class App extends Component {
-
   render() {
     return (
       <div className="App">
         <Navbar />
-        <Section
+        <AboutUs
           title="About Us"
           subtitle={aboutUsText}
           id="section1"
@@ -24,7 +23,7 @@ class App extends Component {
           dark={false}
           id="section2"
         />
-        <Section
+        <Message
           title="A Message from Gaia"
           subtitle={message}
           id="section3"
