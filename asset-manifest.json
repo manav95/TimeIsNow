@@ -1,15 +1,15 @@
 {
-  "main.css": "/TimeIsNow/static/css/main.9318bbba.chunk.css",
-  "main.js": "/TimeIsNow/static/js/main.053ad85a.chunk.js",
-  "main.js.map": "/TimeIsNow/static/js/main.053ad85a.chunk.js.map",
+  "main.css": "/TimeIsNow/static/css/main.3a839ebb.chunk.css",
+  "main.js": "/TimeIsNow/static/js/main.a9312472.chunk.js",
+  "main.js.map": "/TimeIsNow/static/js/main.a9312472.chunk.js.map",
   "static/js/1.9496a9e3.chunk.js": "/TimeIsNow/static/js/1.9496a9e3.chunk.js",
   "static/js/1.9496a9e3.chunk.js.map": "/TimeIsNow/static/js/1.9496a9e3.chunk.js.map",
   "runtime~main.js": "/TimeIsNow/static/js/runtime~main.376b6ebc.js",
   "runtime~main.js.map": "/TimeIsNow/static/js/runtime~main.376b6ebc.js.map",
-  "static/media/logo.svg": "/TimeIsNow/static/media/logo.5d5d9eef.svg",
-  "static/media/App.css": "/TimeIsNow/static/media/galaxy.bd2c11b0.jpg",
-  "static/css/main.9318bbba.chunk.css.map": "/TimeIsNow/static/css/main.9318bbba.chunk.css.map",
+  "static/media/logo.png": "/TimeIsNow/static/media/logo.14ba20b2.png",
+  "static/media/App.css": "/TimeIsNow/static/media/galaxy.30cdb5be.jpg",
+  "static/css/main.3a839ebb.chunk.css.map": "/TimeIsNow/static/css/main.3a839ebb.chunk.css.map",
   "index.html": "/TimeIsNow/index.html",
-  "precache-manifest.c61fd26896bf6ab5765f8af9a388284d.js": "/TimeIsNow/precache-manifest.c61fd26896bf6ab5765f8af9a388284d.js",
+  "precache-manifest.f07e5ddd08442f854bd3a472db031dc7.js": "/TimeIsNow/precache-manifest.f07e5ddd08442f854bd3a472db031dc7.js",
   "service-worker.js": "/TimeIsNow/service-worker.js"
 }
