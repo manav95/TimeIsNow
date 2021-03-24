@@ -17,7 +17,6 @@ class App extends Component {
         <Section
           title="About Us"
           subtitle={aboutUsText}
-          dark={false}
           id="section1"
         />
         <Calendar
@@ -28,7 +27,6 @@ class App extends Component {
         <Section
           title="A Message from Gaia"
           subtitle={message}
-          dark={false}
           id="section3"
         />
         <Gallery
