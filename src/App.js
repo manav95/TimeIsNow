@@ -5,6 +5,8 @@ import Section from "./Components/Section";
 import ContactForm from "./Components/ContactForm";
 import Calendar from "./Components/Calendar";
 import Gallery from "./Components/Gallery"
+import AboutUs from "./Components/AboutUs"
+import Message from "./Components/Message"
 import aboutUsText from './aboutUsText';
 import message from './message';
 
@@ -15,7 +17,6 @@ class App extends Component {
         <Navbar />
         <AboutUs
           title="About Us"
-          subtitle={aboutUsText}
           id="section1"
         />
         <Calendar

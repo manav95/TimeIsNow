@@ -4,8 +4,8 @@ export default function Section({ dark, id }) {
   return (
     <div className={"section" + (dark ? " section-dark" : "")}>
       <div className="section-content" id={id} target="_blank">
-           Join Us:
-           <input type="button" onclick="http://tiny.cc/yhnqtz';" value="Onboarding" />
+           Here is where you can join us:
+           <a href="http://tiny.cc/yhnqtz"><button>Onboarding</button></a>
       </div>
     </div>
   );
