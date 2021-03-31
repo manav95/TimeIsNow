@@ -11,6 +11,15 @@ import aboutUsText from './aboutUsText';
 import message from './message';
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {onboardEnabled: true};
+  }
+
+  onboard() { 
+    this.setState({onboardEnabled: false});
+  }
+
   render() {
     return (
       <div className="App">
