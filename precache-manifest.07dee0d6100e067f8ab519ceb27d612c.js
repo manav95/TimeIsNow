@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8e9451b9d830206f3a32",
-    "url": "/TimeIsNow/static/css/main.d28ac904.chunk.css"
+    "revision": "ea09f68a9b2a9fc5e130",
+    "url": "/TimeIsNow/static/css/main.c1593db8.chunk.css"
   },
   {
-    "revision": "8e9451b9d830206f3a32",
-    "url": "/TimeIsNow/static/js/main.8e9451b9.chunk.js"
+    "revision": "ea09f68a9b2a9fc5e130",
+    "url": "/TimeIsNow/static/js/main.ea09f68a.chunk.js"
   },
   {
     "revision": "ecef33d080bbc5a00dcb",
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/TimeIsNow/static/media/logo.14ba20b2.png"
   },
   {
-    "revision": "30cdb5be513880c305eb8d7e14b24d5d",
-    "url": "/TimeIsNow/static/media/galaxy.30cdb5be.jpg"
+    "revision": "da490c1cefdbd970bf3acd7cd05c4c29",
+    "url": "/TimeIsNow/static/media/galaxy.da490c1c.jpg"
   },
   {
-    "revision": "b5811fa9190cbddd99f226a76e9bdeaf",
+    "revision": "12707da7682fc0211465f0d9d83e54b6",
     "url": "/TimeIsNow/index.html"
   }
 ];
