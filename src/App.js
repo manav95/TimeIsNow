@@ -9,15 +9,18 @@ import AboutUs from "./Components/AboutUs"
 import Message from "./Components/Message"
 import aboutUsText from './aboutUsText';
 import message from './message';
+import { animateScroll as scroll } from "react-scroll";
 
 class App extends Component {
   constructor() {
     super();
     this.state = {onboardEnabled: true};
+    this.onboard = this.onboard.bind(this)
   }
 
   onboard() { 
     this.setState({onboardEnabled: false});
+    scroll.scrollTo(20000)
   }
 
   render() {
@@ -27,6 +30,7 @@ class App extends Component {
         <AboutUs
           title="About Us"
           id="section1"
+          onboard={this.onboard}
         />
         <Calendar
           title="Calendar"
@@ -46,7 +50,9 @@ class App extends Component {
         <ContactForm
           title="Join Us"
           dark={false}
+          onboard={this.onboard}
           id="section5"
+          onboardEnabled={this.state.onboardEnabled}
         />
       </div>
     );
