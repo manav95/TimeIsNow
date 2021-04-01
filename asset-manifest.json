@@ -1,7 +1,7 @@
 {
   "main.css": "/TimeIsNow/static/css/main.b2f212a1.chunk.css",
-  "main.js": "/TimeIsNow/static/js/main.20eb5536.chunk.js",
-  "main.js.map": "/TimeIsNow/static/js/main.20eb5536.chunk.js.map",
+  "main.js": "/TimeIsNow/static/js/main.aeeb44c1.chunk.js",
+  "main.js.map": "/TimeIsNow/static/js/main.aeeb44c1.chunk.js.map",
   "static/css/1.14a3055d.chunk.css": "/TimeIsNow/static/css/1.14a3055d.chunk.css",
   "static/js/1.03e52cfd.chunk.js": "/TimeIsNow/static/js/1.03e52cfd.chunk.js",
   "static/js/1.03e52cfd.chunk.js.map": "/TimeIsNow/static/js/1.03e52cfd.chunk.js.map",
@@ -9,9 +9,9 @@
   "runtime~main.js.map": "/TimeIsNow/static/js/runtime~main.376b6ebc.js.map",
   "static/media/logo.jpg": "/TimeIsNow/static/media/logo.5a6052ae.jpg",
   "static/media/App.css": "/TimeIsNow/static/media/galaxy.da490c1c.jpg",
-  "static/css/main.b2f212a1.chunk.css.map": "/TimeIsNow/static/css/main.b2f212a1.chunk.css.map",
   "static/css/1.14a3055d.chunk.css.map": "/TimeIsNow/static/css/1.14a3055d.chunk.css.map",
+  "static/css/main.b2f212a1.chunk.css.map": "/TimeIsNow/static/css/main.b2f212a1.chunk.css.map",
   "index.html": "/TimeIsNow/index.html",
-  "precache-manifest.2af05b09a885b921740e8e374a0ed74c.js": "/TimeIsNow/precache-manifest.2af05b09a885b921740e8e374a0ed74c.js",
+  "precache-manifest.ef2a3729a17bc8a3e6a731e9f1e4368f.js": "/TimeIsNow/precache-manifest.ef2a3729a17bc8a3e6a731e9f1e4368f.js",
   "service-worker.js": "/TimeIsNow/service-worker.js"
 }
