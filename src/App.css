@@ -43,7 +43,7 @@
 }
 
 .section {
-  color:rgb(255, 249, 249)
+  color:rgba(250, 248, 248, 0.932)
 }
 
 .section-dark {
@@ -55,6 +55,11 @@
   max-width: 800px;
   margin: 0 auto;
   padding: 40px;
+}
+
+.dot-group {
+  max-width: 800px;
+  margin-left: 350px;
 }
 
 .onboarding {
