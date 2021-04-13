@@ -10,9 +10,16 @@ import Message from "./Components/Message"
 import message from './message';
 import { animateScroll as scroll } from "react-scroll";
 
-class App extends Component {
-  constructor() {
-    super();
+interface AppProps {
+}
+
+interface AppState {
+  onboardEnabled: boolean;
+}
+
+class App extends Component<AppProps, AppState> {
+  constructor(props) {
+    super(props);
     this.state = {onboardEnabled: true};
     this.onboard = this.onboard.bind(this)
   }
