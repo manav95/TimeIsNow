@@ -1,13 +1,25 @@
-import React from "react";
+import React, { Component } from "react";
 
-export default function Section({ title, subtitle, id }) {
-    return (
+interface MessageProps {
+  title: string;
+  subtitle: string;
+  id: string;
+}
+
+interface MessageState {
+
+}
+
+export default class Message extends Component<MessageProps, MessageState> {
+  render() {
+      return (
       <div className={"section"}>
-        <div className="section-content" id={id}>
-          <h1 style={{color: 'white' }}>{title}</h1>
-          <p>{subtitle}</p>
+        <div className="section-content" id={this.props.id}>
+          <h1 style={{color: 'white' }}>{this.props.title}</h1>
+          <p>{this.props.subtitle}</p>
         </div>
       </div>
     );
   }
+}
   

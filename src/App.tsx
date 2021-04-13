@@ -18,7 +18,7 @@ interface AppState {
 }
 
 class App extends Component<AppProps, AppState> {
-  constructor(props) {
+  constructor(props: AppProps) {
     super(props);
     this.state = {onboardEnabled: true};
     this.onboard = this.onboard.bind(this)
