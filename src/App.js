@@ -36,7 +36,7 @@ var App = /** @class */ (function (_super) {
         react_scroll_1.animateScroll.scrollTo(20000);
     };
     App.prototype.render = function () {
-        return (react_1["default"].createElement("div", { className: "App" },
+        return (react_1["default"].createElement("div", null,
             react_1["default"].createElement(Navbar_1["default"], null),
             react_1["default"].createElement(AboutUs_1["default"], { title: "About Us", id: "section1", onboard: this.onboard }),
             react_1["default"].createElement(Calendar_1["default"], { title: "Calendar", dark: false, id: "section2" }),

@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from 'react'
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import ContactForm from "./Components/ContactForm";
@@ -9,6 +9,8 @@ import Message from "./Components/Message"
 
 import message from './message';
 import { animateScroll as scroll } from "react-scroll";
+import { hot } from "react-hot-loader";
+import { Component } from "react";
 
 interface AppProps {
 }
@@ -65,4 +67,4 @@ class App extends Component<AppProps, AppState> {
   }
 }
 
-export default App;
+export default hot(module)(App);
